@@ -9,7 +9,7 @@ and open the template in the editor.
         <link rel="icon" href="/favicon.ico"> 
         <title>ReposTech</title>
         <meta charset="UTF-8">
-        <link href="dropdownList.css" rel="stylesheet" type="text/css"/>
+        <link href="networkingd.css" rel="stylesheet" type="text/css"/>
         
     </head>
     
@@ -53,33 +53,30 @@ and open the template in the editor.
             <div id="feature" class="grid_12">
         <p><img src="core_pic.jpg" width="920" alt="mainpic" height="250"> </p>
             </div>
-<div class="article grid_4">
-<p class="header_art"> Leverage your business.</p>
+<div class="container">
+    <h2> Leverage your business.</h2>
     <p> 
 Increase sales by leveraging buyer-to-traffic 
 ratio and your turnover per visitor, collect
-data on customer flows, trend analyses, 
-evanluation of advertising and promotions  
+data on customer flows, trend analysis, 
+evaluation of advertising and promotions  
 with People Counter System <br>LEARN MORE<br/> </p>
-</div>
+
             
         <div class="article grid_4">
     
-  <p class="header_art">  A Smarter Home  
-     in the Palm of Your Hand </p>
-   <p> 
-    A Smarter Home  
-    in the Palm of Your Hand 
-       Take the control over all the stuffs of
+    <h2>A Smart House  
+        in the Palm of Your Hand </h2>
+       <p>  Take the control over all the stuffs of
         home. Turn on and off the lights, lock  
         the doors, increase the temperature of 
         the air condition just with a click  
-        thanks toSmartHouses
+        thanks to SmartHouses
            LEARN MORE </p>
         </div>
             
             <div class="article grid_4">     
-                <p class="header_art"> Watch it everything.</p>
+                <h2> Watch it everything.</h2>
                 <p> See what is happening at your home, 
               at your house with only one click.
               With Hikvision System you will be 
@@ -101,6 +98,7 @@ with People Counter System <br>LEARN MORE<br/> </p>
 
                 <p>COPYRIGHT 2015</p>
             </div>
+</div>
     </body>
 </html>
 
