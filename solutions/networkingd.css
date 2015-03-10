@@ -151,7 +151,7 @@ color:orange;
 
 .pcounterbanner{
     height: 250px;
-    background-image:url(pcounterbanner.jpg);
+    background-image:url(../pcounterbanner.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     width: 100%;  
